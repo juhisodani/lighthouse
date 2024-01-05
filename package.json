@@ -123,7 +123,7 @@
     "http-link-header": "^0.8.0",
     "inquirer": "^3.3.0",
     "intl-messageformat": "^2.2.0",
-    "intl-messageformat-parser": "^1.4.0",
+    "intl-messageformat-parser": "^1.8.1",
     "jpeg-js": "0.1.2",
     "js-library-detector": "^4.3.1",
     "lighthouse-logger": "^1.0.0",
